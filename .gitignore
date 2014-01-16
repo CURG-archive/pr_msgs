@@ -4,3 +4,4 @@ msg/*Action*.msg
 src
 srv_gen
 msg_gen
+*.*~
